@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://furead.netlify.app">
-    <img src="./logo.png" alt="E-Mihon logo" title="E-Mihon logo" width="80"/>
+    <img src="./logoz.png" alt="E-Mihon logo" title="E-Mihon logo" width="80"/>
 </a>
 
 # FuRead Project
