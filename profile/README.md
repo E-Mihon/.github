@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://mihon.app">
-    <img src="./logo.png" alt="Mihon logo" title="Mihon logo" width="80"/>
+<a href="https://e-mihon.vercel.app">
+    <img src="./logo.png" alt="E-Mihon logo" title="E-Mihon logo" width="80"/>
 </a>
 
 # E-Mihon
